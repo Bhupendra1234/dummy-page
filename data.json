@@ -1,0 +1,161 @@
+{
+  "data": {
+    "topics": [
+      "All",
+      "Banking Awareness",
+      "Biology",
+      "Current Affairs",
+      "General Awareness",
+      "Polity"
+    ],
+    "testList": [
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "General Awareness",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Current Affairs",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Current Affairs",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "General Awareness",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Banking Awareness",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Polity",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Current Affairs",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Current Affairs",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Banking Awareness",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Polity",
+        "date": "2022-11-16"
+      },
+      {
+        "name": "TestingDesc",
+        "description": "This is a test descriptionhfhgfggf u iulhyih...",
+        "topic": "Biology",
+        "date": "2022-11-16"
+      }
+    ],
+    "todayNews": [
+      {
+        "topic": "GK Update",
+        "date": "Wed 14 Dec, 2022"
+      },
+      {
+        "topic": "GK Update",
+        "date": "Wed 14 Dec, 2022"
+      },
+      {
+        "topic": "GK Update",
+        "date": "Wed 14 Dec, 2022"
+      },
+      {
+        "topic": "GK Update",
+        "date": "Wed 14 Dec, 2022"
+      },
+      {
+        "topic": "GK Update",
+        "date": "Wed 14 Dec, 2022"
+      }
+    ],
+    "moreLinks": [
+      {
+        "topic": "AIR NEWS"
+      },
+      {
+        "topic": "AIR NEWS"
+      },
+      {
+        "topic": "AIR NEWS"
+      },
+      {
+        "topic": "AIR NEWS"
+      },
+      {
+        "topic": "AIR NEWS"
+      }
+    ]
+  }
+}
